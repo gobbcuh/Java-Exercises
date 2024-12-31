@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class WhileDoWhile2 
 {
-
 	public static void main(String[] args) 
 	{
 		// QUIZ GAME WITH LIVES CHALLENGE
