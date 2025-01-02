@@ -34,5 +34,5 @@ Here’s what I use to bring my Java projects to life:
 
 ## 🌱 Future Plans
 
-This repository will grow and evolve with me! As I advance, I’ll add more examples and eventually dive into more intricate topics.
+This repository will grow and evolve with me! As I advance, I’ll add more examples and dive into more intricate topics.
 Thank you for stopping by and checking out my Java Playground! Let’s keep learning and coding! 😊
