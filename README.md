@@ -1,6 +1,6 @@
 # Java Exercises 👩‍💻
 
-Welcome to my **Java Playground**! 🎉 This repository is where I explore, experiment, and grow as I learn the art of Java programming. It's a collection of exercises and activities designed to strengthen my skills and get hands-on experience with version control using Git and GitHub.
+Welcome to my **Java Playground**! 🎉 This repository is where I explore, experiment, and grow as I learn the art of Java programming. It's a collection of exercises designed to strengthen my skills and get hands-on experience with version control using Git and GitHub.
 
 ## 🌟 Purpose
 
